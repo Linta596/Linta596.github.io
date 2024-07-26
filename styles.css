@@ -1,0 +1,17 @@
+div {
+  align-items: center;
+  text-align: left;
+}
+img {
+  width: 250px;
+  height: 200px;
+  display: block;
+}
+h1 {
+  align-content: right;
+}
+.page-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
